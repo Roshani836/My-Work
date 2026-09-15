@@ -12,7 +12,7 @@ class BankAccount:
 
     def display(self):
         print("Name:", self.name)
-        print("Balancew: ", self.balance)
+        print("Balance: ", self.balance)
 
 account1 = BankAccount("Rahul", 5000)
 
